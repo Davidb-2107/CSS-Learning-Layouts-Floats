@@ -32,3 +32,7 @@ body {
   .float2 {
     float: right;
   }
+
+  p {
+    clear: both;
+  }
