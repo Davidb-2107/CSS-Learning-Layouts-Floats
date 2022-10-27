@@ -27,3 +27,10 @@ body {
     padding: 10px;
     color: #fff;
   }
+
+  /*clearfix hack*/
+  .wrapper::after {
+    content: "";
+    clear: both;
+    display: block;
+  }
