@@ -13,6 +13,7 @@ body {
   .box {
     width: 500px;
     padding: 0.5em;
+    display: flow-root;
   }
 
   .float {
@@ -23,14 +24,17 @@ body {
     background-color: rebeccapurple;
     color: #fff;
     padding: 1em;
+    clear: both;
   }
 
   .float1 {
     float: left;
+    
   }
 
   .float2 {
-    float: right;
+    float: left;
+
   }
 
   p {
