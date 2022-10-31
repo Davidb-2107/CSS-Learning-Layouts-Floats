@@ -26,4 +26,5 @@ body {
     background-color: rebeccapurple;
     padding: 10px;
     color: #fff;
+    display: flow-root;
   }
