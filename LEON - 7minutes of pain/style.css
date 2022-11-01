@@ -13,11 +13,13 @@ main {
 }
 
 main section {
-    /* float: left; */
+    float: left;
     width: 33.3333%;
     height: 100%;
     border: solid blue 4px;
 }
 
-
+footer {
+    clear: both;
+}
 
