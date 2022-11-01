@@ -1,0 +1,23 @@
+html {
+    box-sizing: border-box;
+}
+
+header section, footer {
+    border: 3px solid black;
+    height: 150px;
+}
+
+main {
+    background: red;
+    height: 450px;
+}
+
+main section {
+    /* float: left; */
+    width: 33.3333%;
+    height: 100%;
+    border: solid blue 4px;
+}
+
+
+
