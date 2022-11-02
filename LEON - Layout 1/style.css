@@ -10,9 +10,17 @@ header {
 section {
     border: solid black 5px;
     height: 200px;
+    float: left;
+    width: 33.3333%;
+}
+
+.bigBottom {
+    height: 350px;
+    width: 50%;
 }
 
 footer {
     border: solid green 3px;
     height: 150px;
+    clear: both;
 }
