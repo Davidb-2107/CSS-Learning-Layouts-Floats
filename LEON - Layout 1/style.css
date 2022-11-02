@@ -2,9 +2,10 @@
     box-sizing: border-box;
 }
 
-header {
+header, footer {
     border: solid red 3px;
     height: 150px;
+    clear: both;
 }
 
 section {
@@ -17,10 +18,4 @@ section {
 .bigBottom {
     height: 350px;
     width: 50%;
-}
-
-footer {
-    border: solid green 3px;
-    height: 150px;
-    clear: both;
 }
