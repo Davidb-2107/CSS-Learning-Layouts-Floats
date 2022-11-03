@@ -5,9 +5,17 @@
 header, footer {
     height: 150px;
     border: solid black 3px;
+    clear: both;
 }
 
 section {
     height: 200px;    
     border: solid blue 5px;
+    float: left;
+    width: 100%;
+}
+
+.bigBottom {
+    height: 300px;
+    width: 50%;
 }
