@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    height: 200px;
+    border: solid black 3px;
+}
+
+main {
+    height: 200px;
+    border: solid blue 3px;
+}
+
+aside {
+    height: 200px;
+    border: solid black 3px;
+}
+
