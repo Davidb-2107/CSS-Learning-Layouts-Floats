@@ -2,18 +2,24 @@
     box-sizing: border-box;
 }
 
+header, main, aside {
+    float: left;
+    height: 100vh;
+}
+
+
 header {
-    height: 200px;
     border: solid black 3px;
+    width: 20%;
 }
 
 main {
-    height: 200px;
     border: solid blue 3px;
+    width: 50%;
 }
 
 aside {
-    height: 200px;
     border: solid black 3px;
+    width: 30%;
 }
 
