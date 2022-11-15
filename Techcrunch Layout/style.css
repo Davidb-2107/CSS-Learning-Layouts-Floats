@@ -10,7 +10,7 @@ header, main, aside {
 
 header {
     border: solid black 3px;
-    width: 20%;
+    width: 10%;
 }
 
 main {
@@ -20,6 +20,14 @@ main {
 
 aside {
     border: solid black 3px;
-    width: 30%;
+    width: 40%;
 }
 
+/* header */
+ul {
+    list-style: none;
+}
+li {
+    
+    margin: 2px;
+}
